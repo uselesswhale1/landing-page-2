@@ -1,2 +1,4 @@
 # landing-page-2
-This site can be reached on https://landing-page-2-three.vercel.app/
+Написанный с помощью bootstrap (открытый и бесплатный HTML, CSS и JS фреймворк, который используется веб-разработчиками для быстрой вёрстки).
+Доступен к просмотру по ссылке: //landing-page-2-three.vercel.app/
+
